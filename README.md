@@ -6,8 +6,7 @@ We are making this game in visual studio with windows form and c# programming la
 
 Video Tutorial - 
 
-[![](http://img.youtube.com/vi/35RTKAFDjY0/0.jpg)](http://www.youtube.com/watch?v=35RTKAFDjY0 "MOO ICT t rex runner game in windows form")
+[![](http://img.youtube.com/vi/35RTKAFDjY0/0.jpg)](http://www.youtube.com/watch?v=35RTKAFDjY0)
 
 Written Tutorial - 
 
-https://www.mooict.com/c-tutorial-create-a-t-rex-endless-runner-game-in-visual-studio/
